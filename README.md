@@ -1,8 +1,8 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi 👋, I'm Daikeen Lockett</h1>
-<h3 align="center">A passionate Software Engineer that's always wanting to learn!</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif" alt="Animated GIF">
+<h3 align="center">Passionate Software Engineer that's always wanting to learn and collaborate!</h3>
+<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif" alt="Animated GIF">
 
 <p align="left"> <a href="https://twitter.com/lupnthe3rdday" target="blank"><img src="https://img.shields.io/twitter/follow/lupnthe3rdday?logo=twitter&style=for-the-badge" alt="lupnthe3rdday" /></a> </p>
 
