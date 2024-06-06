@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lupnthe3rdday" target="blank"><img src="https://img.shields.io/twitter/follow/lupnthe3rdday?logo=twitter&style=for-the-badge" alt="lupnthe3rdday" /></a> </p>
 
-- 🌱 I’m currently an engineer in **Fintech**
+- 🌱 I’m currently an engineer @ **Boomi**
 
 - 💬 Ask me about **anything, I'd love to chat! =)**
 
